@@ -1,5 +1,1 @@
-- 👋 Hi, I'm Jaydwils
-- 🇮🇩 Indonesian
-- 🗣 I speak English and Chinese
-- 😵‍💫 Not really good at coding
-- 😳 Being a bit silly
+
